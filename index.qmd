@@ -2,10 +2,14 @@
 title: "rkbrugger.github.io"
 ---
 
-This is a Quarto website.
+This is a Quarto website. This is a test
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
 1 + 1
 ```
+
+Hello this is a test.
+
+One other test
