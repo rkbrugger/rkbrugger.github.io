@@ -1,0 +1,28 @@
+---
+title: "Media"
+page-navigation: false
+---
+
+::: column-margin
+![](pics/SwingingDoodle.svg)
+:::
+
+Selected media coverage of our publications:
+
+***Looking out for each other: Coordination and turn taking in common marmoset vigilance***
+
+-   Coverage by [Psychology Today](https://www.psychologytoday.com/intl/blog/animal-minds/202301/marmosets-take-turns-watching-for-danger)
+
+***Do marmosets understand others' conversations? A thermography approach***
+
+-   Interview with [Science News](https://www.science.org/content/article/marmosets-eavesdrop-their-neighbors-and-judge-them-accordingly), [Inverse](https://www.inverse.com/science/primate-study-finds-scandalous-similarity-to-humans), [CNN](https://edition.cnn.com/2021/02/03/world/marmosets-communication-study-scli-intl-scn/index.html),
+
+-   Short discussion of this publication in the context of the "Many Minds" Podcast episode on [Animal minds and animal morality](https://manyminds.libsyn.com/from-the-archive-animal-minds-and-animal-morality) with Dr. Susana Monsó and Dr. Kristin Andrews (1:06:00):
+
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/26458512/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>
+
+</iframe>
+
+***Reverse audience effects on helping in cooperatively breeding marmoset monkeys***
+
+-   Coverage by [Psychology Today](https://www.psychologytoday.com/us/blog/animal-emotions/201804/marmosets-surprise-researchers-sharing-food-in-private)

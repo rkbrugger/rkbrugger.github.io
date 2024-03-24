@@ -3,15 +3,17 @@ project:
   output-dir: docs
 
 website:
-  favicon: pics/icon.jpg
+  favicon: pics/icon.png
   navbar:
     title: false
-    logo: pics/icon.jpg
+    logo: pics/icon.png
     right:
       - href: index.qmd
         text: Home
       - href: publications.qmd
         text: publications
+      - href: media.qmd
+        text: media
     tools: 
       - icon: github
         menu: 
