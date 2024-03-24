@@ -1,15 +1,58 @@
 ---
-title: "rkbrugger.github.io"
+title: "Rahel K. Brügger"
+image: pics/avatar.png
+toc: false
+about: 
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - icon: twitter
+      text: X
+      href: https://twitter.com/rkbruegger
+    - icon: bookmark
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=KPUD0JcAAAAJ&hl=de 
+    - icon: envelope
+      text: Email
+      href: mailto:rahelkatharina.bruegger@uzh.ch
 ---
 
-This is a Quarto website. This is a test
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
+::: {#hero-heading}
+```{=html}
+<style>
+  body {
+  background-image: url('pics/07.jpg') ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+  
+</style>
 ```
+## Hi 👋
 
-Hello this is a test.
+I am Rahel a PostDoc in the [Evolutionary Cognition Group](https://evocog-uzh.squarespace.com/) at the University of Zürich. I am a behavioural biologist (with a special interest for primates 🐒).
 
-One other test
+During my PhD I worked on topics of social evaluation and third-party understanding in common marmosets – a prerequisite for morality and theory of mind abilities. I used naturally occurring vigilance behavior to investigate marmosets understanding of their conspecifics behavior and attentional states, investigated marmosets sensitivity to audience effects and combined a novel experimental approach and thermography as a non-invasive method to measure arousal levels to assess marmosets understanding of third parties and their evaluation of them.
+
+For my PostDoc I am Part of the [ERC Research Project ENGINE](https://evocog-uzh.squarespace.com/erc-project) where we are investigating the consequences of interdependence in cooperatively breeding common marmosets to further our understanding of why human minds are so unique.
+
+## Education
+
+**University of Zürich** (Switzerland) \| PhD in Evolutionary Biology \| September 2017 -- February 2022
+
+**University of Zürich** (Switzerland) \| Switzerland MSc in Biology \| September 2015 -- February 2017
+
+**University of Bern** (Switzerland) \| BSc in History and Philosophy of Science (Minor Biology) \| September 2010 -- January 2015
+
+## Interests
+
+**Professional** \| Cognitive Evolution \| Thermography \| Vigilance \| Statistics \| Data Viz
+
+**Personal** Dog-Lover 🐶 \| Sewing 🧵 \| Hiking 🌄 \| Basketball 🏀
+:::
+
+
+

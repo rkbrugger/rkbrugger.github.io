@@ -1,0 +1,26 @@
+/*-- scss:defaults --*/
+
+// Colors
+
+$tealblue: #5066AE;
+$yellow: #FDE96B;
+$grey: #ebebeb;
+
+// Base document colors
+$navbar-bg: $tealblue; // navbar
+// $navbar-fg: $dark-green; // navbar foreground elements
+$navbar-hl: $grey; // highlight color when hovering over navbar links
+// $body-bg: $light-green; // page background 
+// $body-color: $grey; // page text 
+$footer-bg: $tealblue; // footer 
+$link-color: $tealblue; // hyperlinks 
+//$dropdown-bg: $yellow;
+$dropdown-link-hover-bg: $yellow;
+$dropdown-link-active-bg: $yellow;
+
+// Inline code
+// $code-bg: $cream; // inline code background color
+// $code-color: $purple; // inline code text color
+
+// Code blocks
+// $code-block-bg: $cream; // code block background color

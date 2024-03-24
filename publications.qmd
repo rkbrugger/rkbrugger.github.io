@@ -1,0 +1,60 @@
+---
+title: "Publications"
+page-navigation: false
+format: 
+  html:
+    toc: true
+    toc-location: left
+---
+
+::: column-margin
+![](pics/ReadingSideDoodle.svg)
+:::
+
+For more details about my publications see the full list also on [Google Scholar](https://scholar.google.ch/citations?user=KPUD0JcAAAAJ&hl=de).
+
+\* *denotes joint first authorship.*
+
+## preprints and papers under review
+
+Phaniraj, N.\*, **Brügger, R. K.\***, Burkart, J. M. Marmosets mutually compensate for differences in rhythms when coordinating vigilance. bioRxiv, [Link](https://doi.org/10.1101/2023.09.28.559895)
+
+**Brügger, R. K.**, Gokcekus, S., Burkart, J. M., Forss, S. I. F. (under review) Influences on exploratory behaviours in common marmosets: an evaluation of the novel object and food paradigm.
+
+## Publications in peer-reviewed journals
+
+### 2024
+
+Kopp. K. S.\*, Kanngiesser, P.\*, **Brügger, R. K.,** Daum, M. M., Gampe, A., Köster, M., van Schaik, C. P., Liebal, K., Burkart, J. M. (2024). The proximate regulation of prosocial behaviour: towards a conceptual framework for comparative research. *Animal Cognition,* 27(1), [Link](https://doi.org/10.1007/s10071-024-01846-w)
+
+### 2023
+
+Burkart, J. M., **Brügger, R. K.,** Phaniraj, N. (2023). Synchronization: When is it more than an epiphenomenon? A modelling approach. Comment on "the evolution of social timing" by L. Verga, S. A. Kotz & A. Ravignani. *Physics of Life Reviews,* *47,* [Link](https://doi.org/10.1016/j.plrev.2023.10.009)
+
+Burkart, J. M., Sehner, S., **Brügger, R. K.,** Adriaense, J. E. C., van Schaik, C. P. (2023). Putting the cart before the horse? The origin of information donation. *Behavioural and Brain Sciences, 46,* [Link](https://doi.org/10.1017/s0140525x2200084x)
+
+**Brügger, R. K.,** Willems, E. P., Burkart, J. M. (2023). Looking out for each other: Coordination and turn taking in common marmoset vigilance. *Animal Behaviour,* *196*, [Link](https://doi.org/10.1016/j.anbehav.2022.11.007)
+
+### 2022
+
+Burkart, J. M., Adriaense, J. E. C., **Brügger, R. B.,** Miss, F. M., Wierucka, K., van Schaik, C. P. (2022). A convergent interaction engine: vocal commuunication among marmoset monkeys. *Philosophical Transaction of the Royal Society B, 377*(1859), [Link](https://doi.org/10.1098/rstb.2021.0098)
+
+### 2021
+
+**Brügger, R. K.,** Burkart, J. M. (2021). Parental reactions to a dying marmoset infant: conditional investment by the mother, but not the father. *Behaviour,* 159(1), [Link](https://doi.org/10.1163/1568539X-bja10108)
+
+**Brügger, R. K.,** Willems, E. P., Burkart, J. M. (2021). Do marmosets understand others' conversations? A thermography approach. *Science Advances,* 7(6), [Link](https://www.science.org/doi/10.1126/sciadv.abc8790)
+
+### 2020
+
+Gokcekus, S.\*, **Brügger, R. K.\*,** Burkart, J. M. (2020). Active sharing of a novel, arbitrary innovation in captive cotton-top tamarins? Behaviour, *158*(1), [Link](https://doi.org/10.1163/1568539X-bja10049)
+
+### 2019
+
+Ermatinger, F. A., **Brügger, R. K.,** Burkart, J. M. (2019). The use of infrared thermography to investigate emotions in common marmosets. *Physiology & behavior,* *211*, [Link](https://doi.org/10.1016/j.physbeh.2019.112672)
+
+### 2018
+
+Burkart, J. M., **Brügger, R. K.,** van Schaik, C. P. (2018). Evolutionary origins of morality: Insights from non-human primates. *Frontiers in Sociology,* *3*(17), [Link](https://doi.org/10.3389/fsoc.2018.00017)
+
+**Brügger, R. K.,** Kappeler-Schmalzriedt, T., Burkart, J. M. (2018). Reverse audience effects on helping in cooperatively breeding marmoset monkeys. *Biology Letters, 14*(3), [Link](https://doi.org/10.1098/rsbl.2018.0030)

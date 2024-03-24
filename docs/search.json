@@ -1,9 +1,51 @@
 [
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "For more details about my publications see the full list also on Google Scholar.\n* denotes joint first authorship."
+  },
+  {
+    "objectID": "publications.html#preprints-and-papers-under-review",
+    "href": "publications.html#preprints-and-papers-under-review",
+    "title": "Publications",
+    "section": "preprints and papers under review",
+    "text": "preprints and papers under review\nPhaniraj, N.*, Brügger, R. K.*, Burkart, J. M. Marmosets mutually compensate for differences in rhythms when coordinating vigilance. bioRxiv, Link\nBrügger, R. K., Gokcekus, S., Burkart, J. M., Forss, S. I. F. (under review) Influences on exploratory behaviours in common marmosets: an evaluation of the novel object and food paradigm."
+  },
+  {
+    "objectID": "publications.html#publications-in-peer-reviewed-journals",
+    "href": "publications.html#publications-in-peer-reviewed-journals",
+    "title": "Publications",
+    "section": "Publications in peer-reviewed journals",
+    "text": "Publications in peer-reviewed journals\n\n2024\nKopp. K. S.*, Kanngiesser, P.*, Brügger, R. K., Daum, M. M., Gampe, A., Köster, M., van Schaik, C. P., Liebal, K., Burkart, J. M. (2024). The proximate regulation of prosocial behaviour: towards a conceptual framework for comparative research. Animal Cognition, 27(1), Link\n\n\n2023\nBurkart, J. M., Brügger, R. K., Phaniraj, N. (2023). Synchronization: When is it more than an epiphenomenon? A modelling approach. Comment on “the evolution of social timing” by L. Verga, S. A. Kotz & A. Ravignani. Physics of Life Reviews, 47, Link\nBurkart, J. M., Sehner, S., Brügger, R. K., Adriaense, J. E. C., van Schaik, C. P. (2023). Putting the cart before the horse? The origin of information donation. Behavioural and Brain Sciences, 46, Link\nBrügger, R. K., Willems, E. P., Burkart, J. M. (2023). Looking out for each other: Coordination and turn taking in common marmoset vigilance. Animal Behaviour, 196, Link\n\n\n2022\nBurkart, J. M., Adriaense, J. E. C., Brügger, R. B., Miss, F. M., Wierucka, K., van Schaik, C. P. (2022). A convergent interaction engine: vocal commuunication among marmoset monkeys. Philosophical Transaction of the Royal Society B, 377(1859), Link\n\n\n2021\nBrügger, R. K., Burkart, J. M. (2021). Parental reactions to a dying marmoset infant: conditional investment by the mother, but not the father. Behaviour, 159(1), Link\nBrügger, R. K., Willems, E. P., Burkart, J. M. (2021). Do marmosets understand others’ conversations? A thermography approach. Science Advances, 7(6), Link\n\n\n2020\nGokcekus, S.*, Brügger, R. K.*, Burkart, J. M. (2020). Active sharing of a novel, arbitrary innovation in captive cotton-top tamarins? Behaviour, 158(1), Link\n\n\n2019\nErmatinger, F. A., Brügger, R. K., Burkart, J. M. (2019). The use of infrared thermography to investigate emotions in common marmosets. Physiology & behavior, 211, Link\n\n\n2018\nBurkart, J. M., Brügger, R. K., van Schaik, C. P. (2018). Evolutionary origins of morality: Insights from non-human primates. Frontiers in Sociology, 3(17), Link\nBrügger, R. K., Kappeler-Schmalzriedt, T., Burkart, J. M. (2018). Reverse audience effects on helping in cooperatively breeding marmoset monkeys. Biology Letters, 14(3), Link"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "rkbrugger.github.io",
+    "title": "Rahel K. Brügger",
     "section": "",
-    "text": "This is a Quarto website. This is a test\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nHello this is a test"
+    "text": "X\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     Email\n  \n\n  \n  \n\n\n\nI am Rahel a PostDoc in the Evolutionary Cognition Group at the University of Zürich. I am a behavioural biologist (with a special interest for primates 🐒).\nDuring my PhD I worked on topics of social evaluation and third-party understanding in common marmosets – a prerequisite for morality and theory of mind abilities. I used naturally occurring vigilance behavior to investigate marmosets understanding of their conspecifics behavior and attentional states, investigated marmosets sensitivity to audience effects and combined a novel experimental approach and thermography as a non-invasive method to measure arousal levels to assess marmosets understanding of third parties and their evaluation of them.\nFor my PostDoc I am Part of the ERC Research Project ENGINE where we are investigating the consequences of interdependence in cooperatively breeding common marmosets to further our understanding of why human minds are so unique.\n\n\n\nUniversity of Zürich (Switzerland) | PhD in Evolutionary Biology | September 2017 – February 2022\nUniversity of Zürich (Switzerland) | Switzerland MSc in Biology | September 2015 – February 2017\nUniversity of Bern (Switzerland) | BSc in History and Philosophy of Science (Minor Biology) | September 2010 – January 2015\n\n\n\nProfessional | Cognitive Evolution | Thermography | Vigilance | Statistics | Data Viz\nPersonal Dog-Lover 🐶 | Sewing 🧵 | Hiking 🌄 | Basketball 🏀"
+  },
+  {
+    "objectID": "index.html#hi",
+    "href": "index.html#hi",
+    "title": "Rahel K. Brügger",
+    "section": "",
+    "text": "I am Rahel a PostDoc in the Evolutionary Cognition Group at the University of Zürich. I am a behavioural biologist (with a special interest for primates 🐒).\nDuring my PhD I worked on topics of social evaluation and third-party understanding in common marmosets – a prerequisite for morality and theory of mind abilities. I used naturally occurring vigilance behavior to investigate marmosets understanding of their conspecifics behavior and attentional states, investigated marmosets sensitivity to audience effects and combined a novel experimental approach and thermography as a non-invasive method to measure arousal levels to assess marmosets understanding of third parties and their evaluation of them.\nFor my PostDoc I am Part of the ERC Research Project ENGINE where we are investigating the consequences of interdependence in cooperatively breeding common marmosets to further our understanding of why human minds are so unique."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Rahel K. Brügger",
+    "section": "",
+    "text": "University of Zürich (Switzerland) | PhD in Evolutionary Biology | September 2017 – February 2022\nUniversity of Zürich (Switzerland) | Switzerland MSc in Biology | September 2015 – February 2017\nUniversity of Bern (Switzerland) | BSc in History and Philosophy of Science (Minor Biology) | September 2010 – January 2015"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Rahel K. Brügger",
+    "section": "",
+    "text": "Professional | Cognitive Evolution | Thermography | Vigilance | Statistics | Data Viz\nPersonal Dog-Lover 🐶 | Sewing 🧵 | Hiking 🌄 | Basketball 🏀"
   }
 ]
