@@ -21,9 +21,9 @@ website:
     background: light # or dark
     left:
       - "Copyright 2024, Rahel K. Brügger"
-    right: |
-      Made with {{< fa solid heart >}}, [{{< fa brands r-project >}}](https://www.r-project.org/) and [Quarto](https://quarto.org/) <br/>
-      Background Illustration from [absurd.design](https://absurd.design/), other illustrations by [blush](https://blush.design/collections/open-peeps/open-peeps)
+    right:
+      "Made with {{< fa solid heart >}}, [{{< fa brands r-project >}}](https://www.r-project.org/) and [Quarto](https://quarto.org/) <br/>
+      Background Illustration from [absurd.design](https://absurd.design/), other illustrations by [blush](https://blush.design/collections/open-peeps/open-peeps)"
 format:
   html:
     theme: 
