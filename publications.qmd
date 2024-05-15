@@ -17,13 +17,13 @@ For more details about my publications see the full list also on [Google Scholar
 
 ## preprints and papers under review
 
-Phaniraj, N.\*, **Brügger, R. K.\***, Burkart, J. M. Marmosets mutually compensate for differences in rhythms when coordinating vigilance. bioRxiv, [Link](https://doi.org/10.1101/2023.09.28.559895)
-
 **Brügger, R. K.**, Gokcekus, S., Burkart, J. M., Forss, S. I. F. (under review) Influences on exploratory behaviours in common marmosets: an evaluation of the novel object and food paradigm.
 
 ## Publications in peer-reviewed journals
 
 ### 2024
+
+Phaniraj, N.\*, **Brügger, R. K.\***, Burkart, J. M. Marmosets mutually compensate for differences in rhythms when coordinating vigilance. *Plos Computational Biology*, [Link](https://doi.org/10.1371/journal.pcbi.1012104)
 
 Kopp. K. S.\*, Kanngiesser, P.\*, **Brügger, R. K.,** Daum, M. M., Gampe, A., Köster, M., van Schaik, C. P., Liebal, K., Burkart, J. M. (2024). The proximate regulation of prosocial behaviour: towards a conceptual framework for comparative research. *Animal Cognition,* 27(1), [Link](https://doi.org/10.1007/s10071-024-01846-w)
 
@@ -37,7 +37,7 @@ Burkart, J. M., Sehner, S., **Brügger, R. K.,** Adriaense, J. E. C., van Schaik
 
 ### 2022
 
-Burkart, J. M., Adriaense, J. E. C., **Brügger, R. B.,** Miss, F. M., Wierucka, K., van Schaik, C. P. (2022). A convergent interaction engine: vocal commuunication among marmoset monkeys. *Philosophical Transaction of the Royal Society B, 377*(1859), [Link](https://doi.org/10.1098/rstb.2021.0098)
+Burkart, J. M., Adriaense, J. E. C., **Brügger, R. K.,** Miss, F. M., Wierucka, K., van Schaik, C. P. (2022). A convergent interaction engine: vocal commuunication among marmoset monkeys. *Philosophical Transaction of the Royal Society B, 377*(1859), [Link](https://doi.org/10.1098/rstb.2021.0098)
 
 ### 2021
 
